@@ -20,7 +20,7 @@ I am a student focusing on recommender systems and artificial intelligence. My r
 
 ## Recent Work
 - Working on research related to bundle completion and recommender systems
-- Building and refining personal academic profiles and research materials
+- 
 
 ## Contact
 - Email: [zhao2005yuxi@gmail.com](mailto:zhao2005yuxi@gmail.com)
