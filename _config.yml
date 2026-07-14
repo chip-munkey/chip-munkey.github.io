@@ -23,8 +23,8 @@ repository               : "https://chip-munkey.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/9786977c600e349b7457e8637d9d81f.png"
-  name             : "Yuxi Zhao"
+  avatar           : "profile.png"
+  name             : "Yuxi Zhao（赵宇熹）"
   pronouns         : # example: "she/her"  
   bio              : "Student focusing on recommender systems and artificial intelligence"
   location         : "Beijing, China"
